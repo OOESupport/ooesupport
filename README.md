@@ -190,7 +190,3 @@ Create Forms: Go to Admin Dashboard -> Dynamic Forms to create your Help Topics 
 Set up SLAs: Go to Admin Dashboard -> SLA Policies to define Response and Resolution grace periods.
 
 Brand Your Portal: Go to Admin Dashboard -> Company Settings to upload your logo, favicon, and set your theme color.
-
-📄 License
-
-This software is proprietary. Copyright © 2026 One O Eight Support Platform.
