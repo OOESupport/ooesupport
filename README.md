@@ -190,3 +190,6 @@ Create Forms: Go to Admin Dashboard -> Dynamic Forms to create your Help Topics 
 Set up SLAs: Go to Admin Dashboard -> SLA Policies to define Response and Resolution grace periods.
 
 Brand Your Portal: Go to Admin Dashboard -> Company Settings to upload your logo, favicon, and set your theme color.
+
+<img width="1917" height="814" alt="image" src="https://github.com/user-attachments/assets/8b106ea6-db4b-4c61-ac4e-dbb2b3ddef94" />
+
